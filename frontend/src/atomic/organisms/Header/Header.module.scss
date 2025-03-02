@@ -1,0 +1,27 @@
+.content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contentLeft{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.mainText{
+  color: #000000;
+  font-size: 25px;
+}
+.boldText{
+  color: #000000;
+  font-size: 20px;
+}
+.authorInfo{
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.text{
+  color: #B6B6B6;
+  font-size: 18px;
+}

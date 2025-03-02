@@ -1,0 +1,29 @@
+.wrapper{
+  margin: 75px auto 50px;
+  max-width: 980px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  gap: 50px;
+}
+.mainContent{
+  width: 50%;
+  color: #000000;
+  flex: 1;
+  border: 1px solid #C6C6C6;
+  border-radius: 15px;
+}
+.buttonSection{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+.text{
+  color: #B6B6B6;
+  font-size: 18px;
+}
+.mainText{
+  color: #000000;
+  font-size: 25px;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contentRight{
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}

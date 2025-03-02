@@ -1,0 +1,30 @@
+.chart{
+  position: relative;
+  width: 100%;
+  height: 354px;
+}
+
+.section{
+  position: absolute;
+  height: 100%;
+  width: 40px;
+  bottom: 0;
+}
+
+.background{
+  height: 100%;
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: rgba(201, 207, 236, 0.34);
+}
+
+.bar{
+  position: absolute;
+  bottom: 0;
+  width: 40px;
+  height: 100%;
+  background-color: #4760F0;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
